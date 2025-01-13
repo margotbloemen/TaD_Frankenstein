@@ -58,7 +58,7 @@ For a live version, visit:
 
 ## **Credits**
 - **Author**: Margot Bloemen  
-- **Supervisors**: Dr. Lamyk Bekius and Dr. Nooshin Shahidzadeh Asadi  
+- **Supervisors**: Prof. Lamyk Bekius and Prof. Nooshin Shahidzadeh Asadi  
 
 This project was inspired by the Bodleian Library’s digital edition of *Frankenstein* and aims to contribute to the field of digital humanities by blending creativity with scholarly precision.
 
